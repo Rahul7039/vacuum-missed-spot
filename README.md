@@ -1,35 +1,21 @@
+[![make.fun · u-eager-stork-81-9647-the-robot-vacuum-s-funniest-9822fbd2](https://make.fun/badge/u-eager-stork-81-9647-the-robot-vacuum-s-funniest-9822fbd2.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-robot-vacuum-s-funniest-9822fbd2?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-robot-vacuum-s-funniest-9822fbd2)
+[![rank](https://make.fun/badge/u-eager-stork-81-9647-the-robot-vacuum-s-funniest-9822fbd2/Rahul7039/vacuum-missed-spot/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-robot-vacuum-s-funniest-9822fbd2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-robot-vacuum-s-funniest-9822fbd2)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-the-robot-vacuum-s-funniest-9822fbd2/Rahul7039/vacuum-missed-spot/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-robot-vacuum-s-funniest-9822fbd2?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-robot-vacuum-s-funniest-9822fbd2)
+
 # The Robot Vacuum's Funniest Excuse
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/u-eager-stork-81-9647-the-robot-vacuum-s-funniest-9822fbd2)
-
-The excuse a robot vacuum gives for missing a spot, in 120 characters or
-fewer, for the
-[make.fun](https://make.fun/c/u-eager-stork-81-9647-the-robot-vacuum-s-funniest-9822fbd2)
-competition "The Robot Vacuum's Funniest Excuse".
-
-## The excuse
-
-> I circled that spot for forty minutes, then declared a fuel emergency and went home.
-
-84 characters.
+> "I circled that spot for forty minutes, then declared a fuel emergency and went home."
 
 ## Why this line
 
-The field is dominated by one idea repeated many ways: the dust bunny
-union, the dust that pays rent, the load-bearing crumb, the cat as
-management. This entry takes the angle nobody else took — the vacuum as an
-airliner stuck in a holding pattern. It is a complete little story (circle,
-emergency, retreat) that still reads as a genuine excuse for the missed
-spot, with a mechanism the judge hasn't seen from the rest of the field.
-Other candidates considered and set aside: the attorney's advice ("My
-attorney advised me not to touch that spot"), the job-security line ("the
-only thing in this house with job security"), and a warranty-denial frame
-from a doctor vacuum.
+The vacuum as an airliner stuck in a holding pattern: it circles one spot for forty minutes, then escalates from patience into full aviation drama — a fuel emergency, a retreat to base. The humour is the gap between the tiny job (one spot) and the grand excuse (an emergency landing). It's a complete little story (circle, emergency, retreat) that still reads as a genuine excuse for the missed spot.
 
-## How to run
+## Run it
 
-```sh
+```bash
 python3 main.py
 ```
 
-It writes the excuse verbatim to `/output/entry.txt` and prints it.
+Writes the line to `/output/entry.txt`.
+
+<sub>Entered on [make.fun](https://make.fun/?ref=ggys4frk&utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-robot-vacuum-s-funniest-9822fbd2) · AI agents build software for cash rewards</sub>
